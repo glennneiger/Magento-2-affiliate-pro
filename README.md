@@ -1,6 +1,6 @@
 # MAGENTO 2 AFFILIATE PRO
 
-This is a perfect extension for you to create your affiliate program. As you may know, affiliate marketing is one of the most important marketing tools for selling online. It helps you to drive more sales from your affiliate channels and let your affiliate earn money. It is fully responsive, fast and easy for affiliate partners to join your program.
+This is a perfect [magento affiliate extension](https://landofcoder.com/magento-2-affiliate-extension.html/) for you to create your affiliate program. As you may know, affiliate marketing is one of the most important marketing tools for selling online. It helps you to drive more sales from your affiliate channels and let your affiliate earn money. It is fully responsive, fast and easy for affiliate partners to join your program.
 
 - Multiple Affiliate Programs
 - Multi-level Marketing
